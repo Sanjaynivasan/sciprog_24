@@ -4,8 +4,8 @@ This folder contains the practical3 codes.
 
 ## Compile
 
-** gcc Trap.c -o trap -lm
-** gcc Pi.c -o pi -lm
+* gcc Trap.c -o trap -lm
+* gcc Pi.c -o pi -lm
 
 ## Executing
 * ./trap
@@ -16,7 +16,7 @@ The real value is 0.693147
 The abs_diff is 0.001898 
 The rel_diff is 0.002738
 
-*./pi
+* ./pi
 
 m_pi = 3.1415927410125732
 acos_pi = 3.1415927410125732
