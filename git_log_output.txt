@@ -1,0 +1,144 @@
+commit 31c1e6ffec7f8e668c46b2ed557548b8db483675
+Merge: 410106c 4f26d00
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Thu Nov 21 00:03:12 2024 +0000
+
+    Merge branch 'practical9'
+
+commit 4f26d00b056c120eb4741ffdb517fe8d45b273b0
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Thu Nov 21 00:00:31 2024 +0000
+
+    Adding practical9 codes
+
+commit 410106cda21787b46e0013e66baf5bd8e04b95d5
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Wed Nov 20 23:57:24 2024 +0000
+
+    Adding practical8 codes
+
+commit f238486ce64851ce653489966b21c32ec7b3a1d8
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Wed Nov 20 23:45:08 2024 +0000
+
+    Adding practical7 codes
+
+commit 56300436cf253d979663ee4cc2cb1040f5302433
+Merge: 800220d f41b536
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Mon Nov 4 20:28:11 2024 +0000
+
+    Adding codes to main
+    Merge branch 'main' of github.com:Sanjaynivasan/sciprog_24
+
+commit 800220d0564d017f5d0e7aa3c7bff7f3ed13472e
+Merge: b1c8c77 c5858fa
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Mon Nov 4 00:20:21 2024 +0000
+
+    Adding codes to main branch
+    Merge branch 'practical6'
+
+commit b1c8c77aff78d781b0293d79b47a0bb2fd149ef5
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Mon Nov 4 00:19:27 2024 +0000
+
+    Adding Readme.md
+
+commit c5858fadb14568c297ed5e40815fab9ecf6acee8
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Mon Nov 4 00:01:39 2024 +0000
+
+    Adding practical6 codes
+
+commit 8685a78d871f4f1316002587c5c1999ff13dedae
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Sun Nov 3 23:38:03 2024 +0000
+
+    Adding practical5 Codes
+
+commit e3c915cdaa8ab3d33b9e2996089cc78d4a44dfc5
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Sun Nov 3 23:16:50 2024 +0000
+
+    Adding practical4 Codes
+
+commit f41b53695af2a4a6536838799876d76e74ee45bb
+Author: SanjaySrinivasan <80592572+Sanjaynivasan@users.noreply.github.com>
+Date:   Sat Oct 12 15:53:50 2024 +0100
+
+    Update README.md
+
+commit 3813fd4245ecffa54ca8cfa01e14155f74cffba4
+Merge: 6027142 8f93fbe
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Sat Oct 12 15:51:03 2024 +0100
+
+    Adding codes to main
+
+commit 8f93fbe9184b55d63ea0825597624a3b2068ffd5
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Sat Oct 12 15:31:46 2024 +0100
+
+    Adding practical3 codes
+
+commit a32115fc39d2290fa5416ca2febc9c06918f2ad6
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Thu Oct 10 18:02:41 2024 +0100
+
+    Adding practical2 codes
+
+commit 60271426bb0c607a657312e300b7b6cb5869d275
+Merge: 0e8e315 f8d8d98
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Thu Oct 10 13:49:26 2024 +0100
+
+    Adding codes to main
+
+commit f8d8d984c6385b436ec1c4f72971696df32e5a1d
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Thu Oct 10 10:53:51 2024 +0100
+
+    Add Practical1 Codes
+
+commit 0e8e315f4d52e82f35ea49bb2dbba049ff648c83
+Author: SanjaySrinivasan <80592572+Sanjaynivasan@users.noreply.github.com>
+Date:   Tue Oct 8 14:38:42 2024 +0100
+
+    Add to Introduction to Github Assignment
+
+commit 0c7778a258eff457852708dfda28b6eefdeb71ad
+Author: SanjaySrinivasan <80592572+Sanjaynivasan@users.noreply.github.com>
+Date:   Tue Oct 8 14:37:44 2024 +0100
+
+    Add to Introduction to Git Project
+
+commit 931556939a1d070f0c6da1ab00e63df96b806b3e
+Author: SanjaySrinivasan <80592572+Sanjaynivasan@users.noreply.github.com>
+Date:   Tue Oct 8 14:33:41 2024 +0100
+
+    Add to Introduction of Git Assignment Project
+
+commit 82ae062b46b39ace54ea6522584f3a973e41ea6b
+Author: SanjaySrinivasan <80592572+Sanjaynivasan@users.noreply.github.com>
+Date:   Tue Oct 8 14:14:20 2024 +0100
+
+    Add Introduction to Git Project
+
+commit f500eec905c9de2abc468880e89360391494c7dc
+Author: SanjaySrinivasan <80592572+Sanjaynivasan@users.noreply.github.com>
+Date:   Tue Oct 8 14:13:04 2024 +0100
+
+    Update README.md
+
+commit c274067b90cab093fb4c0f56820813e58a00afc3
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Tue Oct 8 13:52:23 2024 +0100
+
+    Add Introduction to Git Assignment Project
+
+commit 2effaeff3bded02c4a343a55f8e1cbc6b0d35e45
+Author: Sanjaynivasan <thesanjay.nivasan@gmail.com>
+Date:   Tue Oct 8 13:33:58 2024 +0100
+
+    Add Introduction to Git Assignment Project
